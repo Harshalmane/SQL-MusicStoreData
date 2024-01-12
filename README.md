@@ -6,4 +6,4 @@ And various question which have have to solved by SQL queries.
 
 ## Database & Tools
 
-SQL Server Management Studio 19
+ Microsoft SQL Server Management Studio 19
